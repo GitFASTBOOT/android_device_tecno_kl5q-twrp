@@ -16,7 +16,7 @@
 # Inherit from MTK-common
 $(call inherit-product, device/mediatek/common/device.mk)
 
-PRODUCT_DEVICE := TECNO-KI5q
+PRODUCT_DEVICE := KI5q
 PRODUCT_NAME := twrp_KI5q
 PRODUCT_BRAND := TECNO
 PRODUCT_MODEL := TECNO KI5q
